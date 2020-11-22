@@ -16,8 +16,13 @@ body::after {
     background-position: center;   
   }
 nav{
+    background-color: #AFAFDB;
     padding-left: 10px;
     color:#f2a900;
+}
+a:hover{
+    background-color: lightcoral;
+    color: blue;
 }
 
 a.nav{

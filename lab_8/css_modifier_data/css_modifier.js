@@ -2,6 +2,7 @@ function changeBorder()
 {
     let border_to_mod = document.getElementById("test_para");
     let n_red   = document.getElementById("b_red").value;
+    console.log(n_red);
     let n_green = document.getElementById("b_green").value;
     let n_blue  = document.getElementById("b_blue").value;
     border_to_mod.style.borderColor = "rgb("+n_red+","+n_green+','+n_blue+")";

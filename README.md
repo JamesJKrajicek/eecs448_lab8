@@ -1,2 +1,2 @@
-# personal_eecs_page
-This is the private repository for my personal KU EECS webpage
+# EECS 448 - Lab 8
+This was my submission for my EECS 448 - Software Engineering Lab 10
